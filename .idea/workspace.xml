@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/development/Kotlin/KotlinSpringSandbox" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Kotlin/KotlinTodo" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Kotlin/SpringSandBox" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Kotlin/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Kotlin/todolist" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/db-test" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/play-practice" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/sleep-bank" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/test" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/development/Scala/GKAssistantServer" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/GenkanServer" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/algo_trade" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/fpinscala" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/play-samples-play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/play-sandbox" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/play-silhouette-rest-slick-reactjs-typescript" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/play-silhouette-seed" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/play-silhouette-slick-seed" value="PREVIEW" />
+        <entry key="$USER_HOME$/development/Scala/slick-codegen-example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
